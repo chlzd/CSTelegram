@@ -4,7 +4,7 @@ Comunicação Cliente/Servidor pelo Telegram
 
 ## Server.py
 
-Usar conta Telegran para Login  
+Usar conta Telegram para Login  
 
 ### Prerequisites
 
